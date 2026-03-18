@@ -1,4 +1,4 @@
-# Manager Feedback Skill (V2)
+# Manager of Agents Feedback Skill (V2)
 
 **Triggers:** "review me as your manager", "how am I doing as your boss", "manager feedback", "feedback as your manager"
 
